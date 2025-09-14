@@ -20,7 +20,7 @@ const Hoaihop: Developer = {
     location: "🌍 Earth",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     currentFocus: "Building scalable web applications",
-    interests: ["AI/ML", "Cloud Architecture", "Mobile Development", "Game Development"],
+    interests: ["Tester", "Mobile Development", "Game Development","Web Development"],
 };
 ```
 
