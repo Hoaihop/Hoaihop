@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Hello%20World!%20I'm%20Sewlz&fontSize=40&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" alt="Header"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+innovative+solutions+with+modern+technologies;Passionate+about+clean+code+and+scalable+architecture;Always+learning%2C+always+growing" alt="Typing SVG" />
-</div>
-
-<br/>
 
 <div align="center">
   
