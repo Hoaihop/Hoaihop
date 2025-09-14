@@ -43,7 +43,7 @@ const Hoaihop: Developer = {
 
 ### 🎨 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap," alt="Frontend Skills"/>
 </p>
 
 ### ⚙️ **Backend**
@@ -53,7 +53,7 @@ const Hoaihop: Developer = {
 
 ### 🗄️ **Database & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase" alt="Database & Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase,cypress" alt="Database & Cloud"/>
 </p>
 
 ### 🛠️ **Tools & Others**
@@ -80,8 +80,6 @@ const Hoaihop: Developer = {
 <div align="center">
   
   **💼 Open for opportunities • 🤝 Available for collaboration • 📧 Always ready to chat!**
-  
-  <img src="https://komarev.com/ghpvc/?username=Sewlz&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   
 </div>
 
