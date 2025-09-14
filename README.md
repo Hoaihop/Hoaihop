@@ -14,14 +14,13 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 ```typescript
-const sewlz: Developer = {
-    name: "Sewlz",
+const Hoaihop: Developer = {
+    name: "Hoaihop",
     role: "Full-Stack Software Engineer",
     location: "🌍 Earth",
     languages: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
     currentFocus: "Building scalable web applications",
     interests: ["AI/ML", "Cloud Architecture", "Mobile Development", "Game Development"],
-    motto: "Code with purpose, build with passion! 🚀"
 };
 ```
 
