@@ -53,12 +53,12 @@ const Hoaihop: Developer = {
 
 ### 🗄️ **Database & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase,cypress" alt="Database & Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,supabase" alt="Database & Cloud"/>
 </p>
 
 ### 🛠️ **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,androidstudio,unity,figma,vscode" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,postman,androidstudio,unity,figma,vscode,cypress" alt="Tools"/>
 </p>
 
 </div>
